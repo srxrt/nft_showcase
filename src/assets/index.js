@@ -9,13 +9,13 @@ import scene from "./scene.png";
 import mockup from "./mockup.png";
 
 export default {
-  homeHero,
-  homeCards,
-  feature,
-  expo,
-  expo02,
-  javascript,
-  react,
-  scene,
-  mockup,
+	homeHero,
+	homeCards,
+	feature,
+	expo,
+	expo02,
+	javascript,
+	react,
+	scene,
+	mockup,
 };
